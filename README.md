@@ -1,11 +1,11 @@
 # react-native-ecom-app
 
 
-*Expo base react-native E-Commerce template
-*In this app implementation of flex architecture through redux.
-*For local storage use redux persists.
-*For Navigation throught the app use  react-navigation v2.
-*For UI use Native-base Framework.
+Expo base react-native E-Commerce template
+In this app implementation of flex architecture through react-redux.
+For local storage use redux persists.
+For Navigation throught the app use  react-navigation v2.
+For UI use Native-base Framework.
 This app work still under development.
 
 
