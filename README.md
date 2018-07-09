@@ -1,8 +1,12 @@
 # react-native-ecom-app
 
 
-
-In this implementation of flex architecture through redux, and for local storage, use redux persists and whole app control by appNavigater which implement react-navigation v2. This app work still under development.
+*Expo base react-native E-Commerce template
+*In this app implementation of flex architecture through redux.
+*For local storage use redux persists.
+*For Navigation throught the app use  react-navigation v2.
+*For UI use Native-base Framework.
+This app work still under development.
 
 
 React Native E-Commerce is a free theme ideal for apps on  electronics similar ones. 
@@ -16,7 +20,6 @@ Once you code using React Native there is no reason to select any other platform
 The benefit React Native offers is auto-updation during the changes made in the platform, great speed, sophisticated threading model and also the developers can access the platform specific UI components. Also it offers better development experience with faster loading rate without following any compilation step.
 
 Why React Native E-Commerce Starter?
-
 Single JavaScript code base for both iOS & Android.
 Enormous set of UI Elements.
 Customizable widgets.
