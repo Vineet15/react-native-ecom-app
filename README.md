@@ -1,6 +1,8 @@
 # react-native-ecom-app
 
 
+![Alt text](/app screenshot/Screen Shot 2018-07-09 at 10.02.01 PM.png?raw=true "Optional Title")
+
 Expo base react-native E-Commerce template
 In this app implementation of flex architecture through react-redux.
 For local storage use redux persists.
